@@ -29,7 +29,7 @@ This project implements a motion detection system using OpenCV and Haar Cascade 
     pip install opencv-python numpy
     ```
 
-3. Download the required Haar Cascade XML files:
+3. Download the required Haar Cascade XML files (also available within this repository):
     - [Full Body Haar Cascade](https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_fullbody.xml)
     - [Face Haar Cascade](https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml)
     - [Upper Body Haar Cascade](https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_upperbody.xml)
