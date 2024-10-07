@@ -20,7 +20,7 @@ This project implements a motion detection system using OpenCV and Haar Cascade 
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/yourusername/motion-detection.git
+    git clone https://github.com/taha-parsayan/Remote-Security-Camera-with-Motion-Detection-and-Email-Alert-System.git
     cd motion-detection
     ```
 
