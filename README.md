@@ -6,7 +6,7 @@ This project implements a motion detection system using OpenCV and Haar Cascade 
 
 - Detects human body parts using pre-trained Haar Cascade classifiers.
 - Triggers video recording when significant motion is detected.
-- Optionally sends an email notification with an alert.
+- Sends an email notification with an alert, containing the captured video.
   
 ## Requirements
 
